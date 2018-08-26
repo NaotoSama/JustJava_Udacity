@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- Name input by the user [CHAR LIMIT=NONE] -->
+    <string name="name">Name</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Add whipped cream by the user [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped cream ( + 1$ )</string>
+
+    <!-- Add chocolate by the user [CHAR LIMIT=20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Header text for the number of coffee defined by the user [CHAR LIMIT=5] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- Header text for the users' order summary  [CHAR LIMIT=20] -->
+    <string name="order_summary">Order Summary</string>
+
+    <!-- Explanation on the prices of coffee per cup and toppings [CHAR LIMIT=NONE] -->
+    <string name="pricing_rule">($5 per cup of coffee \nToppings incur additional charges)</string>
+
+    <!-- The text for the order button for the user to submit order [CHAR LIMIT=20] -->
+    <string name="order">Order</string>
+
+    <!-- Texts shown on the called email app [CHAR LIMIT=20] -->
+    <string name="whipped_cream_yes_or_no">Add whipped cream? =></string>
+    <string name="add_chocolate_yes_or_no">Add chocolate? =></string>
+    <string name="total">Total</string>
+    <string name="submit_order_name">Name:</string>
+    <string name="coffee_order_for">Coffee order for</string>
+
+    <!-- Toast error message for exceeding 100 cups of coffee  [CHAR LIMIT=NONE] -->
+    <string name="toast_error_message_100">You cannot order more than 100 cups of coffee</string>
+
+    <!-- Toast error message for less than 1 cup of coffee  [CHAR LIMIT=NONE] -->
+    <string name="toast_error_message_1">You cannot order less than 1 cup of coffee</string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+    <string name="boolean_true">Yes</string>
+    <string name="boolean_false">No</string>
+
+
+</resources>

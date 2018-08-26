@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">咖啡達人(Just Java)</string>
+    <string name="toppings">上層配料</string>
+    <string name="thank_you">謝謝!</string>
+    <string name="name">填入您的大名</string>
+    <string name="whipped_cream">加鮮奶油 (+1美金)</string>
+    <string name="chocolate">加巧克力 (+2美金)</string>
+    <string name="quantity">咖啡數量</string>
+    <string name="order_summary">您的訂單細節</string>
+    <string name="pricing_rule">(每1杯咖啡5美金 \n指定上層配料需另外收費)</string>
+    <string name="order">開始訂購</string>
+    <string name="whipped_cream_yes_or_no">有加鮮奶油嗎？ =></string>
+    <string name="add_chocolate_yes_or_no">有加巧克力嗎？ =></string>
+    <string name="total">應付合計</string>
+    <string name="submit_order_name">姓名:</string>
+    <string name="toast_error_message_100">您不能訂超過100杯咖啡</string>
+    <string name="toast_error_message_1">您不能訂少於1杯咖啡</string>
+    <string name="coffee_order_for">尊貴的咖啡訂購戶：</string>
+    <string name="boolean_true">有</string>
+    <string name="boolean_false">沒有</string>
+</resources>
